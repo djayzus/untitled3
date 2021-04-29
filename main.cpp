@@ -38,6 +38,8 @@ int main() {
             default:
                 std::cout << "Choix invalide" << std::endl;
                 break;
+                //tttttttttttttttttttttttttttttttttttttttfgege
+                //jtrjrtvbeb
         }
 
     }
